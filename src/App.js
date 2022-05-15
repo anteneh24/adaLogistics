@@ -1,10 +1,8 @@
-
+import ViewHolder from '../src/Content/ViewHolder'
 
 function App() {
   return (
-    <>
-    <p className="text-center bottom-0">Hello</p>
-    </>
+    <ViewHolder/>
   );
 }
 
